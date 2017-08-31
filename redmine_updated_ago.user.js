@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Redmine Updated at to Time Ago
 // @namespace    https://github.com/elekdavid/tampermonkey-scripts
+// @source       https://github.com/elekdavid/tampermonkey-scripts/raw/master/redmine_updated_ago.user.js
 // @version      0.1
 // @description  Rewrites redmine updated at field to time ago values.
 // @author       David Elek
